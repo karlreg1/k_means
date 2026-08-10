@@ -1,0 +1,59 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.tox/
+
+# Jupyter / IPython
+profile_default/
+ipython_config.py
+
+# Logs
+*.log
+
+# Data files (uncomment if you don't want to track datasets)
+# *.csv
+# *.parquet
+# data/
+
+# Model / large binary artifacts (uncomment if needed)
+# *.h5
+# *.pkl
+# *.pt
